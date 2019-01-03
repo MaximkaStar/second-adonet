@@ -1,0 +1,10 @@
+C:\Users\Максим\source\repos\connectionApplicationForm\connectionApplicationForm\bin\Debug\connectionApplicationForm.exe.config
+C:\Users\Максим\source\repos\connectionApplicationForm\connectionApplicationForm\bin\Debug\connectionApplicationForm.exe
+C:\Users\Максим\source\repos\connectionApplicationForm\connectionApplicationForm\bin\Debug\connectionApplicationForm.pdb
+C:\Users\Максим\source\repos\connectionApplicationForm\connectionApplicationForm\obj\Debug\connectionApplicationForm.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\connectionApplicationForm\connectionApplicationForm\obj\Debug\connectionApplicationForm.Form1.resources
+C:\Users\Максим\source\repos\connectionApplicationForm\connectionApplicationForm\obj\Debug\connectionApplicationForm.Properties.Resources.resources
+C:\Users\Максим\source\repos\connectionApplicationForm\connectionApplicationForm\obj\Debug\connectionApplicationForm.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\connectionApplicationForm\connectionApplicationForm\obj\Debug\connectionApplicationForm.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\connectionApplicationForm\connectionApplicationForm\obj\Debug\connectionApplicationForm.exe
+C:\Users\Максим\source\repos\connectionApplicationForm\connectionApplicationForm\obj\Debug\connectionApplicationForm.pdb
